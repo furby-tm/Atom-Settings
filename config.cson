@@ -1,0 +1,35 @@
+"*":
+  Hydrogen:
+    kernelspec: "{\"kernelspecs\":{\"python2\":{\"resource_dir\":\"/Library/Python/2.7/site-packages/ipykernel/resources\",\"spec\":{\"language\":\"python\",\"display_name\":\"Python 2\",\"env\":{},\"argv\":[\"/usr/bin/python\",\"-m\",\"ipykernel\",\"-f\",\"{connection_file}\"]}}}}"
+  "atom-beautify":
+    general:
+      _analyticsUserId: "e3a55c8a-fe46-44dc-b9ad-5e36239c554b"
+  core:
+    disabledPackages: [
+      "seti-icons"
+    ]
+    telemetryConsent: "limited"
+    themes: [
+      "seti-ui"
+      "gruvbox-plus-syntax"
+    ]
+  editor: {}
+  "exception-reporting":
+    userId: "fabdaeaa-ce07-a10f-8720-fc0f8d9e533c"
+  "gruvbox-plus-syntax":
+    contrast: "Hard"
+    variant: "No Dimmed Colors"
+  linter:
+    errorPanelHeight: 25
+  "seti-ui":
+    themeColor: "Green"
+  "terminal-plus":
+    ansiColors:
+      normal:
+        black: "#8a8a8a"
+    core:
+      workingDirectory: "Active File"
+    style:
+      theme: "inverse"
+  welcome:
+    showOnStartup: false
